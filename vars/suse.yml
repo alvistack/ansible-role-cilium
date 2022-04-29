@@ -32,4 +32,4 @@ _yum_repository:
     state: "present"
 
 _zypper:
-  - { state: "latest", name: "cilium" }
+  - { state: "latest", name: "cilium-cli" }
