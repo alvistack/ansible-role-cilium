@@ -4,7 +4,7 @@
 
 ### Major Changes
 
-## 5.7.0 - 2022-04-29
+## 5.7.0 - 2022-04-30
 
   - Ininitial release for Ansible 4.10 or higher
   - This role was designed for:
